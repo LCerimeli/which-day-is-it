@@ -1,0 +1,40 @@
+S M T W T F S
+0 1 2 3 4 5 6
+
+2000 - Tuesday   2
+2100 - Sunday    0
+2200 - Friday    5
+2300 - Wednesday 3
+2400 - Tuesday   2
+2500 - Sunday    0
+2600 - Friday    5 
+2700 - Wednesday 3
+2800 - Tuesday   2
+2900 - Sunday    0
+3000 - Friday    5 
+3100 - Wednesday 3
+3200 - Tuesday   2
+3300 - Sunday    0
+3400 - Friday    5
+3500 - Wednesday 3
+3600 - Tuesday   2
+3700 - Sunday    0
+3800 - Friday    5
+3900 - Wednesday 3
+4000 - Tuesday   2
+
+Doomsdays:
+LY = Leap year
+
+03/01 or 04/01(LY)
+28/02 or 29/02(LY)
+07/03
+04/04
+09/05
+06/06
+11/07
+08/08
+05/09
+10/10
+07/11
+12/12
